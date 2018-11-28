@@ -1,2 +1,5 @@
 #send the mail to wari regarding zym
-#
+# these are the steps which can be done like that also
+# while they ve not been done like this 
+# which is quite cool for them also 
+#so let it be happen for them also.

@@ -1,5 +1,19 @@
-#send the mail to wari regarding zym
-# these are the steps which can be done like that also
-# while they ve not been done like this 
-# which is quite cool for them also 
-#so let it be happen for them also.
+
+Mobility:
+8 years to 10 years of experience in delivering Mobility based enterprise applications.
+Lead agile teams, consisting of resources across the organization, needed to deliver on prioritized projects and work efforts. 
+Understand and practice servant leadership, putting needs of others first and helps people develop and perform as highly as possible.
+Should have solid knowledge in agile PM tools in Rally, JIRA, etc .. 
+Should have solid knowledge in all scrum ceremonies.
+Manage the team's activities to ensure timely completion of tasks. 
+Remove team impediments. 
+Identify and communicate potential risks to the completion of the sprints and releases, including resource, cost, and system. 
+Independently develops corrective actions necessary to mitigate most issues and reviews with management for confirmation prior to execution.
+Facilitate project kick off/review release planning, sprint planning, daily stand up meetings, sprint reviews/demos, retrospectives for agile teams. 
+Present in a variety of informal settings: one on one, small groups, with peers and functional managers. 
+Present to director level and below.
+Should have manageable knowledge in mobility eco systems on Android, iOS, Windows etc.
+Must have delivered minimum 2-3 large scale mobility projects successfully using Agile project execution methodology.
+Good to have knowledge in any two MADPs (Mobile Application Development Platforms ) like SMP, Mobile Fabric, IBM Mobile First.
+Should have high level idea of technical tools like XCODE, Android Studio, Obj C, Swift, HTML5 etc..
+[www.google.com]

@@ -40,7 +40,7 @@
 	 <br>
 	 <div style="color:blue;" id="para3"></div>
 	 <script>
-		 document.getElementById("para1").innerHTML = formatAMPM();
+		
 
 function formatAMPM() {
 var d = new Date(),
@@ -49,8 +49,10 @@ var d = new Date(),
     ampm = d.getHours() >= 12 ? 'pm' : 'am',
     months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],
     days = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
-return days[d.getDay()]+' '+months[d.getMonth()]+' '+d.getDate()+' '+d.getFullYear()+' '+hours+':'+minutes+ampm;
+return days[d.getDay()]+' '+months[d.getMonth()]+' '+d.getDate()+' '+d.getFullYear()+' '+hours+':'+minutes+ampm + 'r' + 18 - hours +':' + 60 -minutes;
 }
+		  document.getElementById("para1").innerHTML = formatAMPM();
+		 
 		 function getWeekNumber(d) {
     // Copy date so don't modify original
     d = new Date(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()));
@@ -65,13 +67,15 @@ return days[d.getDay()]+' '+months[d.getMonth()]+' '+d.getDate()+' '+d.getFullYe
     return [d.getUTCFullYear(), weekNo];
 }
  var result = getWeekNumber(new Date());
- document.getElementById("para2").innerHTML =  result[1] + 'w of ' + result[0];
-var now = new Date();
+ 
+
+		 var now = new Date();
 var start = new Date(now.getFullYear(), 0, 0);
 var diff = (now - start) + ((start.getTimezoneOffset() - now.getTimezoneOffset()) * 60 * 1000);
 var oneDay = 1000 * 60 * 60 * 24;
 var day = Math.floor(diff / oneDay);
-	 document.getElementById("para3").innerHTML = 'D o y: ' + day + '-' +'Remainig' + (365 - day);
+	 document.getElementById("para2").innerHTML =  result[1] + 'w' + 'd' + day + ' - ' + 'r' + (365 - day) ;
+		 document.getElementById("para3").innerHTML = 'D o y: ' + day + '-' +'Remainig' + (365 - day);
 		 
 	 </script>
 	 <br>

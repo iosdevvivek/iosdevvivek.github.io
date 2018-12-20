@@ -1,4 +1,4 @@
- <div class="rightdiv"> 
+  
 <h6 style="color:blue;">-------------- (aws) -----------------</h6>
 	<a href="https://www.naukri.com/aws-jobs"> aws </a><br>
 	<a href="https://github.com/donnemartin/awesome-aws">awesome-aws </a><br> 

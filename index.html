@@ -37,7 +37,8 @@
 	 <div style="color:blue;" id="para1"></div>
 	 <br>
 	 <div style="color:blue;" id="para2"></div>
-	 
+	 <br>
+	 <div style="color:blue;" id="para3"></div>
 	 <script>
 		 document.getElementById("para1").innerHTML = formatAMPM();
 
@@ -63,9 +64,15 @@ return days[d.getDay()]+' '+months[d.getMonth()]+' '+d.getDate()+' '+d.getFullYe
     // Return array of year and week number
     return [d.getUTCFullYear(), weekNo];
 }
-
-var result = getWeekNumber(new Date());
-		 document.getElementById("para2").innerHTML =  result[1] + 'week of ' + result[0];
+ var result = getWeekNumber(new Date());
+ document.getElementById("para2").innerHTML =  result[1] + 'w of ' + result[0];
+var now = new Date();
+var start = new Date(now.getFullYear(), 0, 0);
+var diff = (now - start) + ((start.getTimezoneOffset() - now.getTimezoneOffset()) * 60 * 1000);
+var oneDay = 1000 * 60 * 60 * 24;
+var day = Math.floor(diff / oneDay);
+	 document.getElementById("para3").innerHTML = 'Day of year: ' + day;
+		 
 	 </script>
 	 
       <div class="leftdiv"> 

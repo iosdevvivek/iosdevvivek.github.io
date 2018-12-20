@@ -49,7 +49,7 @@ var d = new Date(),
     ampm = d.getHours() >= 12 ? 'pm' : 'am',
     months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],
     days = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
-return days[d.getDay()]+' '+months[d.getMonth()]+' '+d.getDate()+' '+d.getFullYear()+' '+hours+':'+minutes+ampm + 'r' + 18 - hours +':' + 60 -minutes;
+return days[d.getDay()]+' '+months[d.getMonth()]+' '+d.getDate()+' '+d.getFullYear()+' '+hours+':'+minutes+ampm + 'r' + (18 - hours) +':' + (60 -minutes);
 }
 		  document.getElementById("para1").innerHTML = formatAMPM();
 		 
@@ -74,7 +74,7 @@ var start = new Date(now.getFullYear(), 0, 0);
 var diff = (now - start) + ((start.getTimezoneOffset() - now.getTimezoneOffset()) * 60 * 1000);
 var oneDay = 1000 * 60 * 60 * 24;
 var day = Math.floor(diff / oneDay);
-	 document.getElementById("para2").innerHTML =  result[1] + 'w' + 'd' + day + ' - ' + 'r' + (365 - day) ;
+	 document.getElementById("para2").innerHTML =  result[1] + 'w' + ' - ' + day + 'd'+ ' - ' + 'r' + (365 - day) ;
 		 document.getElementById("para3").innerHTML = 'D o y: ' + day + '-' +'Remainig' + (365 - day);
 		 
 	 </script>

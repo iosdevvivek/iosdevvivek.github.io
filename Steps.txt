@@ -36,3 +36,5 @@ https://github.com/FAQGURU/FAQGURU
 https://github.com/opsmop/opsmop
 https://github.com/i0natan/nodebestpractices
 https://github.com/Snailclimb/JavaGuide
+https://github.com/h5bp/Front-end-Developer-Interview-Questions
+https://github.com/9magnets/iOS-Developer-and-Designer-Interview-Questions

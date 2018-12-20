@@ -17,3 +17,22 @@ Must have delivered minimum 2-3 large scale mobility projects successfully using
 Good to have knowledge in any two MADPs (Mobile Application Development Platforms ) like SMP, Mobile Fabric, IBM Mobile First.
 Should have high level idea of technical tools like XCODE, Android Studio, Obj C, Swift, HTML5 etc..
 [www.google.com]
+what is a computer...
+# why it needs to be in evry home..
+# what it enhances at the home..
+# what change does it makes in once life...
+# is desktop better or lap top..
+# how to configure..
+# how to connect with the net..
+# can it be used as a memory device..
+# can it be used like that..
+# populat git repos....
+https://github.com/trimstray/the-book-of-secret-knowledge
+https://github.com/hangtwenty/dive-into-machine-learning
+https://github.com/andrew--r/channels
+https://www.youtube.com/freecodecamp
+https://github.com/toddmotto/public-apis#books
+https://github.com/FAQGURU/FAQGURU
+https://github.com/opsmop/opsmop
+https://github.com/i0natan/nodebestpractices
+https://github.com/Snailclimb/JavaGuide

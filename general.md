@@ -24,7 +24,6 @@ https://www.cnbc.com/technology/
  <a href="Twitter.html"target="_blank" >top100</a><br>
 <a href="https://github.com/iosdevvivek/iosdevvivek.github.io/edit/master/Steps.txt" target="_blank">new </a><br> 	
 
- 
 <h6 style="color:blue;">----------------  (tutes) -----------------</h6>
  <a href="https://www.guru99.com/devops-tutorial.html">devops</a><br>
  <a href="https://reactjs.org/tutorial/tutorial.html">react</a><br> 

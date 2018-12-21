@@ -1,13 +1,9 @@
 
-[https://www.cnbc.com/technology/] 
-
-href = "https://www.cnbc.com/technology/" <br>
-
-https://www.cnbc.com/technology/
-
- https://www.cnbc.com/technology/ < cnbc>  
  
-<a "https://www.cnbc.com/technology/" > cnbc </a>
+
+ < cnbc>  https://www.cnbc.com/technology/  
+ 
+ 
 
 <h6 style="color:blue;">--------------- (generals) --------------</h6>      
 <a href="https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#jenkins" target="_blank">free-programming-books</a><br>

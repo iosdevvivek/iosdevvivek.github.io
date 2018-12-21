@@ -5,7 +5,8 @@ href = "https://www.cnbc.com/technology/" <br>
 
 https://www.cnbc.com/technology/
 
-<a https://www.cnbc.com/technology/ > cnbc </a>
+ https://www.cnbc.com/technology/ < cnbc>  
+ 
 <a "https://www.cnbc.com/technology/" > cnbc </a>
 
 <h6 style="color:blue;">--------------- (generals) --------------</h6>      

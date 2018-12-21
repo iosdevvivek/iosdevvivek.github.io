@@ -5,6 +5,9 @@ href = "https://www.cnbc.com/technology/" <br>
 
 https://www.cnbc.com/technology/
 
+<a https://www.cnbc.com/technology/ > cnbc </a>
+<a "https://www.cnbc.com/technology/" > cnbc </a>
+
 <h6 style="color:blue;">--------------- (generals) --------------</h6>      
 <a href="https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#jenkins" target="_blank">free-programming-books</a><br>
  <a href="https://github.com/sindresorhus/awesome" target="_blank">awesome</a><br>

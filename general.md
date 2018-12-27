@@ -8,6 +8,9 @@
  <a href="http://srbachchan.tumblr.com/" target="_blank">srb</a><br>
  <a href="https://yourstory.com/" target="_blank">yourStory</a><br>
  <a href="https://www.cnbc.com/technology/ " target="_blank">cnbc</a><br>
+ <a href="https://www.entrepreneur.com/topic/startups" > entreprenuer </a>
+ <a href= "https://startupweekend.org/" > stupwed </a> 
+ <a href = "http://10000startups.com/> 1000stp </a>
  <a href="https://phys.org" target="_blank">phys</a><br>
  <a href="https://www.freecodecamp.org/?ref=mn">freecodecamp</a><br>
  <a href="https://dzone.com/"target="_blank">dzone</a><br>

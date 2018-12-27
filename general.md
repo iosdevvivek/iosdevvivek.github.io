@@ -1,10 +1,4 @@
 
- 
-
- < cnbc>  https://www.cnbc.com/technology/  
- 
- 
-
 <h6 style="color:blue;">--------------- (generals) --------------</h6>      
 <a href="https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#jenkins" target="_blank">free-programming-books</a><br>
  <a href="https://github.com/sindresorhus/awesome" target="_blank">awesome</a><br>
@@ -12,6 +6,8 @@
 <a href="https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#linux" target="_blank">linux</a><br>	      
  <a href="https://www.patentlyapple.com/" target="_blank">PTapple</a><br>
  <a href="http://srbachchan.tumblr.com/" target="_blank">srb</a><br>
+ <a href="https://yourstory.com/" target="_blank">yourStory</a><br>
+ <a href="https://www.cnbc.com/technology/ " target="_blank">cnbc</a><br>
  <a href="https://phys.org" target="_blank">phys</a><br>
  <a href="https://www.freecodecamp.org/?ref=mn">freecodecamp</a><br>
  <a href="https://dzone.com/"target="_blank">dzone</a><br>
@@ -20,7 +16,7 @@
  <a href="india.html">Sip/biz</a><br>
  <a href="index1.html">HomePage</a><br>
  <a href="daily.html">daily/Tutes</a><br>
- <a href="https://medium.com/" target="_blank">medium</a><br>
+ 
  <a href="Twitter.html"target="_blank" >top100</a><br>
 <a href="https://github.com/iosdevvivek/iosdevvivek.github.io/edit/master/Steps.txt" target="_blank">new </a><br> 	
 

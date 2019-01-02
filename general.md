@@ -5,6 +5,7 @@
 <a href="https://github.com/sindresorhus/awesome#big-data" target="_blank">bigData</a><br>
 <a href="https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#linux" target="_blank">linux</a><br>	      
  <a href="https://www.patentlyapple.com/" target="_blank">PTapple</a><br>
+ <a href="https://tech.economictimes.indiatimes.com/" > ETTECH </a><br>
  <a href="http://srbachchan.tumblr.com/" target="_blank">srb</a><br>
  <a href="https://yourstory.com/" target="_blank">yourStory</a><br>
  <a href="https://www.cnbc.com/technology/ " target="_blank">cnbc</a><br>

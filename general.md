@@ -4,6 +4,9 @@
  <a href="https://www.mysmartprice.com/" target="_blank">mysmartprice</a><br>
  <a href="https://www.gizmochina.com/" target="_blank">gizmochina</a><br>
  <a href="https://www.gsmarena.com/" target="_blank">gsmarena</a><br>
+ <a href="https://www.zdnet.com/" target="_blank">zdnet</a><br>
+ <a href="https://www.cnet.com/" target="_blank">cnet</a><br>
+ <a href="https://gizmodo.com/" target="_blank">gizmodo</a><br>
  <a href="https://www.reuters.com/places/india" target="_blank">reuters</a><br>
  <a href="https://www.recode.net/" target="_blank">recode</a><br> 
  <a href="https://www.wsj.com/india" target="_blank">wsj</a><br>

@@ -1,10 +1,9 @@
 
 <h6 style="color:blue;">--------------- (generals) --------------</h6>      
-<a href="https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#jenkins" target="_blank">free-programming-books</a><br>
- <a href="https://github.com/sindresorhus/awesome" target="_blank">awesome</a><br>
-<a href="https://github.com/sindresorhus/awesome#big-data" target="_blank">bigData</a><br>
-<a href="https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#linux" target="_blank">linux</a><br>	      
  <a href="https://www.patentlyapple.com/" target="_blank">PTapple</a><br>
+ <a href="https://www.mysmartprice.com/" target="_blank">mysmartprice</a><br>
+ <a href="https://www.gizmochina.com/" target="_blank">gizmochina</a><br>
+ <a href="https://www.gsmarena.com/" target="_blank">gsmarena</a><br>
  <a href="https://www.reuters.com/places/india" target="_blank">reuters</a><br>
  <a href="https://www.recode.net/" target="_blank">recode</a><br> 
  <a href="https://www.wsj.com/india" target="_blank">wsj</a><br>
@@ -23,8 +22,11 @@
  <a href="india.html">Sip/biz</a><br>
  <a href="index1.html">HomePage</a><br>
  <a href="daily.html">daily/Tutes</a><br>
- 
- <a href="Twitter.html"target="_blank" >top100</a><br>
+ <a href="https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#jenkins" target="_blank">free-programming-books</a><br>
+ <a href="https://github.com/sindresorhus/awesome" target="_blank">awesome</a><br>
+<a href="https://github.com/sindresorhus/awesome#big-data" target="_blank">bigData</a><br>
+<a href="https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#linux" target="_blank">linux</a><br>	      
+<a href="Twitter.html"target="_blank" >top100</a><br>
 <a href="https://github.com/iosdevvivek/iosdevvivek.github.io/edit/master/Steps.txt" target="_blank">new </a><br> 	
 
 <h6 style="color:blue;">----------------  (tutes) -----------------</h6>

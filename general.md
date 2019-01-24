@@ -10,6 +10,11 @@
  <a href="https://www.reuters.com/places/india" target="_blank">reuters</a><br>
  <a href="https://www.recode.net/" target="_blank">recode</a><br> 
  <a href="https://www.wsj.com/india" target="_blank">wsj</a><br>
+ ========cloud=====
+ <a href="https://www.allthingsdistributed.com/" target="_blank">wsj</a><br>
+ <a href="https://aws.amazon.com/blogs/" target="_blank">aws</a><br>
+ <a href="https://aws.amazon.com/blogs/aws/" target="_blank">aws.amzn</a><br>
+ ============
  <a href="https://tech.economictimes.indiatimes.com/" > ETTECH </a><br>
  <a href="http://srbachchan.tumblr.com/" target="_blank">srb</a><br>
  <a href="https://yourstory.com/" target="_blank">yourStory</a><br>

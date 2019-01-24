@@ -15,6 +15,8 @@
  <a href="https://aws.amazon.com/blogs/" target="_blank">aws</a><br>
  <a href="https://aws.amazon.com/blogs/aws/" target="_blank">aws.amzn</a><br>
  <a href="https://aws.amazon.com/podcasts/aws-podcast/" target="_blank">podcast</a><br>
+ <a href="https://aws.amazon.com/getting-started/" target="_blank">getting-started</a><br>
+ <a href="https://aws.amazon.com/getting-started/use-cases/" target="_blank">use-cases</a><br>
  -----------------<br>
  <a href="https://tech.economictimes.indiatimes.com/" > ETTECH </a><br>
  <a href="http://srbachchan.tumblr.com/" target="_blank">srb</a><br>

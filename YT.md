@@ -9,6 +9,9 @@
 	[https://www.youtube.com/user/edurekaIN/videos] edureka <br>
 	[https://www.youtube.com/user/AmazonWebServices/videos] aws <br>
 	[https://www.youtube.com/user/durgasoftware/videos] durgasoft <br>
+	[https://www.youtube.com/feed/subscriptions] subscription <br>
+	---------sngs------------
+	[https://www.jiosaavn.com/radio/hindi] radio <br> 
 	 
  
 <h6 style="color:blue;">-------------- (mngmnt) -----------------</h6>

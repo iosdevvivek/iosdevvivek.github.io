@@ -26,9 +26,7 @@
 	<a href="https://stackoverflow.com/questions/tagged/amazon-s3">amazon-s3 </a><br>
 	<a href="http://docs.aws.amazon.com/cli/latest/index.html">aws-CLI </a><br>
 	
-	</div>
-	
-      <div class="rightdiv"> 
+	 
  
 	<h6 style="color:blue;">-------------- (stackoverflow) -----------------</h6>
 &nbsp&nbsp<a href="https://stackoverflow.com/questions/tagged/javascript" target="_blank">javascript</a><br>
@@ -41,5 +39,5 @@
 &nbsp&nbsp<a href="https://stackoverflow.com/questions/tagged/android" target="_blank">android</a><br>
 &nbsp&nbsp<a href="https://stackoverflow.com/questions/tagged/angular" target="_blank">angular</a><br>
  	
-	      </div>
+ 
 	

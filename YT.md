@@ -3,8 +3,9 @@
 <h6 style="color:blue;">-------------- (YT) -----------------</h6>
 &nbsp&nbsp<a href="https://www.youtube.com/playlist?list=PLF269DA4FF4E1EE26" target="_blank">java</a><br>
 &nbsp&nbsp<a href="https://www.youtube.com/watch?v=_lRx1zoriPo&t=1927s" target="_blank">ios-stanford</a><br>
-	<a href="https://github.com/lucasviola/awesome-tech-videos" target="_blank">awesome-tech-videos</a>
-	[https://www.youtube.com/watch?v=aZeFMmH4gag&start_radio=1&list=RDaZeFMmH4gag] nmo
+	<a href="https://github.com/lucasviola/awesome-tech-videos" target="_blank">awesome-tech-videos</a><br>
+	[https://www.youtube.com/watch?v=aZeFMmH4gag&start_radio=1&list=RDaZeFMmH4gag] nmo <br>
+	[https://www.youtube.com/channel/UCx8Z14PpntdaxCt2hakbQLQ/videos] llntop  <br>
 	
 	 
  

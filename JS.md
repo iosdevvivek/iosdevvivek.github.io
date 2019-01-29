@@ -27,8 +27,9 @@
 	<a href="http://docs.aws.amazon.com/cli/latest/index.html">aws-CLI </a><br>
 	
 	 
- 
-	<h6 style="color:blue;">-------------- (stackoverflow) -----------------</h6>
+    ------------------stackoverflow---------------------------
+	
+	
 &nbsp&nbsp<a href="https://stackoverflow.com/questions/tagged/javascript" target="_blank">javascript</a><br>
 &nbsp&nbsp<a href="https://stackoverflow.com/questions/tagged/node.js" target="_blank">node.js</a><br>
 &nbsp&nbsp<a href="https://stackoverflow.com/questions/tagged/swift" target="_blank">swift</a><br>

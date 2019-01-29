@@ -1,6 +1,6 @@
-<div class="leftdiv"> 
+  
    
-	  <h6 style="color:blue;">-------------- (ios) -----------------</h6>
+	  [https://stackoverflow.com/tags/ios/info]- ios-resources
 &nbsp&nbsp<a href="https://www.naukri.com/part-time-teacher-jobs" target="_blank">Part-time-teacher	 </a> <br>
 &nbsp&nbsp<a href="https://www.naukri.com/part-time-jobs" target="_blank">Part-time-jobs  </a> <br>
 &nbsp&nbsp <a href="https://github.com/iosdevvivek/iosdevvivek.github.io/edit/master/iosj.md"> iosj-edit</a><br>

@@ -1,4 +1,5 @@
 
+[https://iosdevvivek.github.io/] Home
 <h6 style="color:blue;">--------------- (generals) --------------</h6>      
  <a href="https://www.patentlyapple.com/" target="_blank">PTapple</a><br>
  <a href="https://www.mysmartprice.com/" target="_blank">mysmartprice</a><br>

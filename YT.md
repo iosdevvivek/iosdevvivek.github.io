@@ -1,5 +1,5 @@
  
- 
+ [https://iosdevvivek.github.io/]  - home
 <h6 style="color:blue;">-------------- (YT) -----------------</h6>
 [https://www.youtube.com/playlist?list=PLF269DA4FF4E1EE26" java<br>
 	[https://www.youtube.com/watch?v=_lRx1zoriPo&t=1927s" ]ios-stanford<br>

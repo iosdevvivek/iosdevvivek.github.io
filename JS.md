@@ -1,5 +1,7 @@
 [https://www.guru99.com/angularjs-views.html] gr <br>
 [https://www.edureka.co/blog/interview-questions/top-angularjs-interview-questions-2016/] br
+[test] br
+[test1] hh
  [https://iosdevvivek.github.io/] hm <br>
 [https://www.youtube.com/watch?v=i9MHigUZKEM&t=1699s] daily prep <br> 								
     ------------------stackoverflow---------------------------

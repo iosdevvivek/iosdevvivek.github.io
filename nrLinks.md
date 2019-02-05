@@ -1,5 +1,6 @@
-[https://www.naukri.com/html5-jobs] html
-[https://careers.tcs.com/] 
+[https://www.naukri.com/html5-jobs] html <br>
+[https://careers.tcs.com/] <br>
+[https://www.google.com/search?safe=active&q=trainings&npsic=0&rflfq=1&rlha=0&rllag=18532752,73940079,2640&tbm=lcl&ved=2ahUKEwiBrYH26aTgAhXLv48KHZgiBbQQjGp6BAgBED8&tbs=lrf:!2m1!1e2!2m1!1e3!2m1!1e16!3sIAE,lf:1,lf_ui:2&rldoc=1#rlfi=hd:;si:;mv:!1m2!1d18.572493599999998!2d73.95325059999999!2m2!1d18.4999698!2d73.9048691;tbs:lrf:!2m1!1e2!2m1!1e3!2m1!1e16!3sIAE,lf:1,lf_ui:2] <br>
  
 <h6 style="color:blue;">-------------- section 2 -----------------</h6>
 <a href="pgd.html">pgd</a> <br>

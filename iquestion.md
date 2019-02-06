@@ -10,9 +10,13 @@
 9. explain mvvm
 10. swift main advantage.
    * Closures.
-    * Type safe Languages.
+   * Type safe Languages.
    * supports pattern matching.
    * Built in error handling.
+11. generics in swift
+12. lazy in swift
+13. pass variable as reference.
+14. what is concurrency.
 
 
 

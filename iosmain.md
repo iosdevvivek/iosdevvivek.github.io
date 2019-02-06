@@ -2,9 +2,9 @@
    
 	  
 	  
- 
- [https://docs.google.com/document/d/1MKJUDxe4HEE3Eutl4mEKk4s4qWTxMVLXtSWbj8eM0v4/edit] ios/ques
- [https://stackoverflow.com/tags/ios/info] - ios-resources
+ [https://github.com/iosdevvivek/iosdevvivek.github.io/blob/master/iossteps.md] ios-steps-md <br>
+ [https://docs.google.com/document/d/1MKJUDxe4HEE3Eutl4mEKk4s4qWTxMVLXtSWbj8eM0v4/edit] ios/ques <br>
+ [https://stackoverflow.com/tags/ios/info] - ios-resources <br>
  <a href="https://www.naukri.com/part-time-teacher-jobs" target="_blank">Part-time-teacher	 </a> <br>
  <a href="https://www.naukri.com/part-time-jobs" target="_blank">Part-time-jobs  </a> <br>
   <a href="https://github.com/iosdevvivek/iosdevvivek.github.io/edit/master/iosj.md"> iosj-edit</a><br>

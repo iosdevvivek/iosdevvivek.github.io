@@ -1,5 +1,5 @@
 [http://iosdevvivek.github.io/jsSteps.md]
-            
+[webdevelopment dzone](https://dzone.com/web-development-programming-tutorials-tools-news ) <br>           
 [https://github.com/iosdevvivek/iosdevvivek.github.io/blob/master/jsSteps.md] JsStep <br>
 [https://github.com/iosdevvivek/iosdevvivek.github.io/blob/master/htmltags.md] htags <br>
 [https://www.guru99.com/angularjs-views.html] gr <br>

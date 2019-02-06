@@ -1,6 +1,6 @@
- UIkit > Views and controls > UIImageView  [https://developer.apple.com/documentation/uikit/uiimageview] 
+ UIkit > Views and controls > UIImageView  
  [developer-apple](https://developer.apple.com/documentation/uikit/uiimageview)
- ##Class UIImageView 
+ ## Class UIImageView 
  
  **declaration**
  *class UIImageView: UIView*

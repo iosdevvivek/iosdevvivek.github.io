@@ -9,10 +9,10 @@
 8. explain mvc
 9. explain mvvm
 10. swift main advantage.
-  1. Closures.
-  2. Type safe Languages.
-  3. supports pattern matching.
-  4. Built in error handling.
+   1. Closures.
+    2. Type safe Languages.
+   3. supports pattern matching.
+   4. Built in error handling.
 
 
 

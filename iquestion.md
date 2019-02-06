@@ -1,6 +1,10 @@
 <a href="https://docs.google.com/document/d/1ua0QP1vG8vATGk4mhVw9lz53XrStYv0Nl4A5GBd68UA/edit">iquestion-doc</a>
 1. What is the difference strong, weaks, read only and copy?
+  1. test
+  2. test
 2. What is the difference strong, weaks, read only and copy?
+  1. test
+  2.test
 3. What is the difference strong, weaks, read only and copy?
 
 https://medium.com/@duruldalkanat/ios-interview-questions-13840247a57a <br>

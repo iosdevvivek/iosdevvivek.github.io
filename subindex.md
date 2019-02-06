@@ -1,1 +1,14 @@
-{analytics}
+&nbsp&nbsp<a href="https://github.com/iosdevvivek/iosdevvivek.github.io/blob/master/iosmain.md">iOS</a><br>
+&nbsp&nbsp<a href="https://github.com/iosdevvivek/iosdevvivek.github.io/blob/master/JS.md">JS</a><br>
+&nbsp&nbsp<a href="https://github.com/iosdevvivek/iosdevvivek.github.io/blob/master/java.md">Java</a><br>	 
+&nbsp&nbsp<a href="https://github.com/iosdevvivek/iosdevvivek.github.io/blob/master/aws.md">AWS</a><br>
+ &nbsp&nbsp<a href="https://github.com/iosdevvivek/iosdevvivek.github.io/blob/master/blogs.md"> blogs</a><br>
+ &nbsp&nbsp<a href="https://github.com/iosdevvivek/iosdevvivek.github.io/blob/master/YT.md">YT/mngmnt/CRR</a><br>
+&nbsp&nbsp<a href="gists.html">gDoc/gists</a><br>
+ &nbsp&nbsp<a href="https://www.linkedin.com/feed/">Linked</a><br>	 
+ &nbsp&nbsp<a href="https://www.shiksha.com/">shiksha</a><br>
+ &nbsp&nbsp<a href="https://github.com/iosdevvivek/iosdevvivek.github.io/blob/master/general.md">General</a><br>
+&nbsp&nbsp<a href="https://github.com/iosdevvivek/iosdevvivek.github.io/blob/master/nrLinks.md">nrLinks</a><br>
+&nbsp&nbsp<a href="stackover.html">StackOver</a><br>	      
+&nbsp&nbsp<a href="Rest.html">Rest</a><br>
+&nbsp&nbsp<a href="Twitter.html">Twtr</a><br>	

@@ -1,10 +1,10 @@
  UIkit > Views and controls > UIImageView  [https://developer.apple.com/documentation/uikit/uiimageview] 
+ [title](https://developer.apple.com/documentation/uikit/uiimageview)
+ ##Class UIImageView 
  
- Class UIImageView 
- 
- declaration 
- class UIImageView: UIView
- understanding how images are scaled :
+ **declaration**
+ *class UIImageView: UIView*
+ >understanding how images are scaled :
  Determining the final transparency of the image 
  isOpaque, 
  Animating a Sequence of Images 

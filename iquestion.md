@@ -5,7 +5,10 @@
 2. What is the difference strong, weaks, read only and copy
   1. test
   2.test
-3. What is the difference strong, weaks, read only and copy
+* What is the difference strong, weaks, read only and copy
+  * test
+  * test
+* test1
 
 https://medium.com/@duruldalkanat/ios-interview-questions-13840247a57a <br>
 2- What is the difference between Synchronous & Asynchronous task ? <br>

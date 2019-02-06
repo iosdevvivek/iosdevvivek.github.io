@@ -1,3 +1,66 @@
+ UIkit > Views and controls > UIImageView  [https://developer.apple.com/documentation/uikit/uiimageview] 
+ 
+ Class UIImageView 
+ 
+ declaration 
+ class UIImageView: UIView
+ understanding how images are scaled :
+ Determining the final transparency of the image 
+ isOpaque, 
+ Animating a Sequence of Images 
+ Responding to touch Events (isUserInterractionEnabled]
+ InterfaceBuilder Attributes....
+ 
+ // UIImage...
+ declaration
+ class UiImage: NSObject
+ 
+ create Image Objects:
+ init
+ imageWithContentsOfFile
+ animatedImage(with:duration) 
+ 
+ Defining a Stretchable Image 
+ Comparing images:
+ let image1 = UIImage(named: "MyImage")
+ let image2 = UIImage(named:"MyImage")
+ if image1 ! = nil && image1!.isEqual(image2) {
+         // correct
+         }
+         if image1 == image2 {
+         // incorrect
+         }
+ 
+ 
+ //handling connect and disconnect notifications....(uiscreen)
+ -(void)handleScreenConnectNotification:(NSNotification*)aNotification {
+       uiscreen *newScreen = [aNotification object];
+       CGrect screenBounds = newScreen.bounds;
+       
+       if(!_secondWindow) {
+       
+            _secondWindow = [[UIWindow alloc] initWithFrame:screenBounds];
+            _secondWindow.screen = newScreen;
+            
+            //Set the initial UI For the window and show it.
+            [self.viewController displaySelectionInSecondaryWindow:_secondWindow];
+            [_secondWindow makeKeyAndVisible];
+            }
+            }
+ 
+ 
+ // adding an overlay view to a text field
+ 
+    UIButton *overlayButton = [UIbutton buttonwithType:UIButtonTypeCustom];
+    [overlayButton setImage:[UIImage imageNames:@"bookmark"] forState:UiControlStateNormal];
+    [Overlaybutton addTarget:self action:@selector(displayBookmarks:) forControlEvents:UIControlEventTouchUpInside];
+    overlayButton = CGRectMake(0,0,28,28);
+    
+    //Assign the overlay button to a stored text field 
+    self.textField.leftView = overlayButton;
+    self.textfield.leftViewMode = UITextFieldViewModeAlways;
+    
+ 
  // Create a custom button and set title label style
         
         let orangeButton = UIButton(type: .custom)

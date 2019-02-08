@@ -1,8 +1,8 @@
-(https://github.com/iosdevvivek/iosdevvivek.github.io/blob/master/iosmain.md) [iOS]
-["https://github.com/iosdevvivek/iosdevvivek.github.io/blob/master/JS.md] JS
-["https://github.com/iosdevvivek/iosdevvivek.github.io/blob/master/java.md] Java
-[https://github.com/iosdevvivek/iosdevvivek.github.io/blob/master/aws.md] AWS
-[https://github.com/iosdevvivek/iosdevvivek.github.io/blob/master/blogs.md] blogs <br>
+ [iOS] (https://github.com/iosdevvivek/iosdevvivek.github.io/blob/master/iosmain.md)
+ [JS] ("https://github.com/iosdevvivek/iosdevvivek.github.io/blob/master/JS.md)
+[Java] (https://github.com/iosdevvivek/iosdevvivek.github.io/blob/master/java.md) 
+[AWS] (https://github.com/iosdevvivek/iosdevvivek.github.io/blob/master/aws.md) 
+[blogs ] (https://github.com/iosdevvivek/iosdevvivek.github.io/blob/master/blogs.md)
  [https://github.com/iosdevvivek/iosdevvivek.github.io/blob/master/YT.md] YT/mngmnt/CRR <br>
 [gists.html]gDoc/gists <br>
 [https://www.linkedin.com/feed/] Linked <br>

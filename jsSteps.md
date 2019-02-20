@@ -31,7 +31,7 @@ ng generate component {name}
 
 **Create a hero class**
 
-**show the hero Object **
+**show the hero Object**
 
 ***Edit the hero***
 

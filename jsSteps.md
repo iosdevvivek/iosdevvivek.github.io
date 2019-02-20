@@ -24,6 +24,17 @@ ng serve --open
 
 **create a new component** 
 ng generate component {name}
+*add a hero property*
+*show the hero*
+
+**Show the HeroesComponent View**
+
+**Create a hero class**
+
+**show the hero Object **
+
+***Edit the hero***
+
 
 
 

@@ -11,6 +11,72 @@ Where	ThoughtWorks (6th Floor, Binarius Building, Deepak Complex, National Games
 Fri Feb 22, 2019 5pm – 6:30pm (IST)
 Where	A-Wing, 3rd Floor, Pride Silicon Plaza (Gokhale Nagar, Pune, India)
 
+Shrestha Bhushan
+9709226323
+
+Rekha
+HighPoints Technologies India Pvt Ltd
+
+Komal Wagh
+KapsTag Workforce Solutions Private Limited
+
+The hero editor...
+1. add a hero property....
+//heroes.component.ts
+hero= 'windstorm'
+//heroes.component.html
+{{hero}}
+2. show the HeroesComponent View
+app.component.html
+<h1>{{title}}</h1>
+<app-heroes></app-heroes>
+
+3. create a  hero class
+src/app/hero.ts
+class Hero {
+  id:numeber;
+  name:string;
+  }
+  
+ 4. return to the HeroesComponent class and import Hero class
+ src/app/heroes/heroes.component.ts
+ export class HeroesComponent implements OnInit {
+  hero: Hero = {
+    id: 1,
+    name: 'Windstorm'
+  };
+
+5. show the hero Object:
+heroes.component.html
+<h2>{{hero.name}} Details</h2>
+<div><span>id: </span>{{hero.id}}</div>
+<div><span>name: </span>{{hero.name}}</div>
+
+6.
+7. edit the hero
+src/app/heroes/heroes.component.html
+<div>
+  <label>name:
+    <input [(ngModel)]="hero.name" placeholder="name">
+  </label>
+</div>
+
+8. import form modules..
+import { FormsModule } from '@angular/forms'; // <-- NgModel lives here
+add FormsModule to the @NgModule metadata's imports array
+app.module.ts
+imports: [
+  BrowserModule,
+  FormsModule
+],
+
+9.declare the HeroesComponent
+src/app/app.module.ts
+import { HeroesComponent } from './heroes/heroes.component';
+declarations: [
+  AppComponent,
+  HeroesComponent
+],
 
 
 ////sunday...

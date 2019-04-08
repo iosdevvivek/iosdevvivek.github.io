@@ -2,6 +2,7 @@
 [https://iosdevvivek.github.io/] Home
 <h6 style="color:blue;">--------------- (generals) --------------</h6>      
  <a href="https://www.patentlyapple.com/" target="_blank">PTapple</a><br>
+ <a href="https://www.cnbc.com/business/" target="_blank">CNBC-bns</a><br>
  <a href="https://www.mysmartprice.com/" target="_blank">mysmartprice</a><br>
  <a href="https://www.gizmochina.com/" target="_blank">gizmochina</a><br>
  <a href="https://www.gsmarena.com/" target="_blank">gsmarena</a><br>

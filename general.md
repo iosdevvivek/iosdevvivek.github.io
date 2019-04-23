@@ -7,6 +7,9 @@
  <a href="https://www.moneycontrol.com/equity-research/" target="_blank">equity-research</a><br>
  <a href="https://www.moneycontrol.com/news/bfsi-tech/" target="_blank">bfsi-tech</a><br>
  <a href="https://economictimes.indiatimes.com/markets/expert-view" target="_blank">ectimes</a><br>
+ <a href="http://www.bseindia.com/" target="_blank">bseIndia</a><br>
+ <a href="http://www.nse-india.com/." target="_blank">nseIndia</a><br>
+ <a href="http://www.sebi.gov.in/." target="_blank">sebiIndia</a><br>
  
   ------------cloud---------<br>
  <a href="https://www.mysmartprice.com/" target="_blank">mysmartprice</a><br>

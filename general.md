@@ -7,7 +7,7 @@
  <a href="https://www.moneycontrol.com/news/business/mutual-funds/" target="_blank">mControl-mFunds</a><br>
  <a href="https://www.moneycontrol.com/news/business/personal-finance/" target="_blank">mcontrol-pfinance</a><br>
  <a href="https://www.moneycontrol.com/real-estate-property/" target="_blank">mcontrol-realestate</a><br>
- <a href="https://www.moneycontrol.com/markets/technicals/" target="_blank">mcontrol-technicals</a><br>
+ <a href="https://economictimes.indiatimes.com/markets/expert-view" target="_blank">ectimes</a><br>
  <a href="https://www.mysmartprice.com/" target="_blank">mysmartprice</a><br>
  <a href="https://www.gizmochina.com/" target="_blank">gizmochina</a><br>
  <a href="https://www.gsmarena.com/" target="_blank">gsmarena</a><br>

@@ -11,7 +11,7 @@
  <a href="http://www.nse-india.com/." target="_blank">nseIndia</a><br>
  <a href="http://www.sebi.gov.in/." target="_blank">sebiIndia</a><br>
  <a href="https://www.investopedia.com/company-news-4427705" target="_blank">investopedia</a><br
- 
+  <a href="https://www.nyse.com/index" target="_blank">nyse</a><br
  
   ------------cloud---------<br>
  <a href="https://www.mysmartprice.com/" target="_blank">mysmartprice</a><br>

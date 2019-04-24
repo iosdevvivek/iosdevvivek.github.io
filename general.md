@@ -12,8 +12,9 @@
  <a href="http://www.sebi.gov.in/." target="_blank">sebiIndia</a><br>
  <a href="https://www.investopedia.com/company-news-4427705" target="_blank">investopedia</a><br>
   <a href="https://www.nyse.com/index" target="_blank">nyse</a><br>
-   <a href="http://www.equitypandit.com/" target="_blank">eP</a><br>
-    <a href="https://www.nasdaq.com/" target="_blank">eP</a><br>
+  <a href="http://www.equitypandit.com/" target="_blank">eP</a><br>
+  <a href="https://www.nasdaq.com/" target="_blank">nasdaq</a><br>
+  <a href="https://www.pmexamsmartnotes.com/">Pmp</a><br>
   ------------cloud---------<br>
  <a href="https://www.mysmartprice.com/" target="_blank">mysmartprice</a><br>
  <a href="https://www.gizmochina.com/" target="_blank">gizmochina</a><br>

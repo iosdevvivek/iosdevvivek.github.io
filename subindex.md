@@ -1,7 +1,7 @@
 [events] (https://in.bookmyshow.com/pune/events) <br>
 [scotty](https://www.olx.in/pune_g4059014/q-scooty) <br>
-[sip1-fundsindia](https://www.fundsindia.com/content/jsp/investor/InvestorPositionInfoAction.do?method=viewAll)
-[sip2-cleartax] (https://cleartax.in/save/dashboard/portfolio?auth_provider=google#)
+[sip1-fundsindia](https://www.fundsindia.com/content/jsp/investor/InvestorPositionInfoAction.do?method=viewAll) <br>
+[sip2-cleartax] (https://cleartax.in/save/dashboard/portfolio?auth_provider=google#) <br>
 
 [deal of the day](https://www.flipkart.com/dotd-store?=Web&wid=4.dealCard.OMU&otracker=hp_omu_Deals%2Bof%2Bthe%2BDay_0&otracker1=hp_omu_PINNED_neo%2Fmerchandising_Deals%2Bof%2Bthe%2BDay_NA_wc_view-all_0) <br>
 [coworking](https://www.google.com/search?safe=active&q=coworking+space&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=18517817,73932729,390&tbm=lcl&sa=X&ved=2ahUKEwjo292mz6vgAhUSWCsKHcjECRkQjGp6BAgCED4#rlfi=hd:;si:;mv:!1m2!1d18.5722394!2d73.9483134!2m2!1d18.5044534!2d73.88208399999999;tbs:lrf:!2m1!1e2!2m1!1e3!2m1!1e16!3sIAE,lf:1,lf_ui:2) <br>

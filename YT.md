@@ -2,7 +2,7 @@
  [https://iosdevvivek.github.io/]  - home
  
 <h6>-------------- (Playlists) -----------------</h6> 
-[https://www.youtube.com/watch?v=o4daQ7e4Njw&list=PLA_tb393dqDetGnR1s30duMGOz5n6qP5d]Stock] Market Classroom with Udayan Mukherjee<br>
+["https://www.youtube.com/watch?v=o4daQ7e4Njw&list=PLA_tb393dqDetGnR1s30duMGOz5n6qP5d]Stock"] Market Classroom with Udayan Mukherjee<br>
  
 <h6 style="color:blue;">-------------- (YT) -----------------</h6>
 [https://www.youtube.com/playlist?list=PLF269DA4FF4E1EE26" java<br>

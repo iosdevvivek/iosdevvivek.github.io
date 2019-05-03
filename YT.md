@@ -1,6 +1,6 @@
   
 <h6>-------------- (Playlists) -----------------</h6> 
- [gmat](https://studyabroad.careers360.com/articles/gmat) <br>
+ 
  []() <br>
 
 [Market Classroom with Udayan Mukherjee](https://www.youtube.com/watch?v=o4daQ7e4Njw&list=PLA_tb393dqDetGnR1s30duMGOz5n6qP5d]Stock) <br>
@@ -9,6 +9,10 @@
 [et now interviews](https://www.youtube.com/watch?v=o62OsC_axHU&list=PL51KTBvlQFEFv5WKx4O6Y48LndJmRpC2h)<br>
  [cnbc-weekender](https://www.youtube.com/playlist?list=PLjq9mRS1PfGCKBgpsKfhBT9C4iyUmxwuw) <br>
  [young turks](https://www.youtube.com/playlist?list=PLjq9mRS1PfGBZaN1e38X2ZmevnU1e1NJs) <br>
+ [w buffet-cnbc](https://www.youtube.com/watch?v=3hgpbke3e70&list=PLVbP054jv0KqonCqJwhVZvdjMhE-Ph7gg) <br>
+ [cnbc-explains](https://www.youtube.com/watch?v=mSfXUkcdm9o&list=PLaqf4I4NEUbmc5pN5KbiDJIotxsL8V1uR) <br>
+ [cnbc-reports](https://www.youtube.com/watch?v=sYc9jDuRN4w&list=PLaqf4I4NEUbmCAlEqsqO_G5J8_r_MqnJf) <br>
+ 
 <h6 style="color:blue;">-------------- (YT) -----------------</h6>
 [https://www.youtube.com/playlist?list=PLF269DA4FF4E1EE26" java<br>
 	[https://www.youtube.com/watch?v=_lRx1zoriPo&t=1927s" ]ios-stanford<br>

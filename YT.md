@@ -12,6 +12,8 @@
  [w buffet-cnbc](https://www.youtube.com/watch?v=3hgpbke3e70&list=PLVbP054jv0KqonCqJwhVZvdjMhE-Ph7gg) <br>
  [cnbc-explains](https://www.youtube.com/watch?v=mSfXUkcdm9o&list=PLaqf4I4NEUbmc5pN5KbiDJIotxsL8V1uR) <br>
  [cnbc-reports](https://www.youtube.com/watch?v=sYc9jDuRN4w&list=PLaqf4I4NEUbmCAlEqsqO_G5J8_r_MqnJf) <br>
+ [tv18-business lunch](https://www.youtube.com/watch?v=0fTOa2FsUpI&list=PLjq9mRS1PfGDwVPNTaFhFz9zfv6elp-8I&index=2) <br>
+ [tv18-todaystmarket](https://www.youtube.com/watch?v=PKRjEQFc6s8&list=PLjq9mRS1PfGCB80ztvebY50g4gOBAs5y2) <br>
  
 <h6 style="color:blue;">-------------- (YT) -----------------</h6>
 [https://www.youtube.com/playlist?list=PLF269DA4FF4E1EE26" java<br>

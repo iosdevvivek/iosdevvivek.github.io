@@ -1,4 +1,4 @@
-[gmat](https://studyabroad.careers360.com/articles/gmat) <br>
+[gmat](https://studyabroad.careers360.com/articles/gmat), [meetups] (https://www.meetup.com/#) <br>
 [events-bookmyshow](https://in.bookmyshow.com/pune/events), [comedyshows](https://in.bookmyshow.com/pune/events/comedy-shows) <br>
 [scotty](https://www.olx.in/pune_g4059014/q-scooty) <br>
 [sip1-fundsindia](https://www.fundsindia.com/content/jsp/investor/InvestorPositionInfoAction.do?method=viewAll) <br>

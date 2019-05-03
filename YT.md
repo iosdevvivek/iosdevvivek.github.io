@@ -1,8 +1,8 @@
- 
+  
+<h6>-------------- (Playlists) -----------------</h6> 
  [gmat](https://studyabroad.careers360.com/articles/gmat) <br>
  []() <br>
- 
-<h6>-------------- (Playlists) -----------------</h6> 
+
 [Market Classroom with Udayan Mukherjee](https://www.youtube.com/watch?v=o4daQ7e4Njw&list=PLA_tb393dqDetGnR1s30duMGOz5n6qP5d]Stock) <br>
 [this is  myarchitecture](https://www.youtube.com/playlist?list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb)<br>
 [knowledge center videos] (https://www.youtube.com/watch?v=PcWOGMalRoM&list=PLhr1KZpdzukfdjsOHZ-BazZt1iK1J8UUw)

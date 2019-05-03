@@ -5,10 +5,10 @@
 
 [Market Classroom with Udayan Mukherjee](https://www.youtube.com/watch?v=o4daQ7e4Njw&list=PLA_tb393dqDetGnR1s30duMGOz5n6qP5d]Stock) <br>
 [this is  myarchitecture](https://www.youtube.com/playlist?list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb)<br>
-[knowledge center videos](https://www.youtube.com/watch?v=PcWOGMalRoM&list=PLhr1KZpdzukfdjsOHZ-BazZt1iK1J8UUw)
+[knowledge center videos](https://www.youtube.com/watch?v=PcWOGMalRoM&list=PLhr1KZpdzukfdjsOHZ-BazZt1iK1J8UUw) <br>
 [et now interviews](https://www.youtube.com/watch?v=o62OsC_axHU&list=PL51KTBvlQFEFv5WKx4O6Y48LndJmRpC2h)<br>
- [https://www.youtube.com/playlist?list=PLjq9mRS1PfGCKBgpsKfhBT9C4iyUmxwuw] cnbc-weekender <br>
- [https://www.youtube.com/playlist?list=PLjq9mRS1PfGBZaN1e38X2ZmevnU1e1NJs] young turks
+ [cnbc-weekender](https://www.youtube.com/playlist?list=PLjq9mRS1PfGCKBgpsKfhBT9C4iyUmxwuw) <br>
+ [young turks](https://www.youtube.com/playlist?list=PLjq9mRS1PfGBZaN1e38X2ZmevnU1e1NJs) <br>
 <h6 style="color:blue;">-------------- (YT) -----------------</h6>
 [https://www.youtube.com/playlist?list=PLF269DA4FF4E1EE26" java<br>
 	[https://www.youtube.com/watch?v=_lRx1zoriPo&t=1927s" ]ios-stanford<br>

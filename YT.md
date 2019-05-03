@@ -1,8 +1,9 @@
  
- [https://iosdevvivek.github.io/]  - home
+ 
  
 <h6>-------------- (Playlists) -----------------</h6> 
 [https://www.youtube.com/watch?v=o4daQ7e4Njw&list=PLA_tb393dqDetGnR1s30duMGOz5n6qP5d]Stock] Market Classroom with Udayan Mukherjee<br>
+(this is  myarchitecture)[https://www.youtube.com/playlist?list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb]<br>
 [https://www.youtube.com/watch?v=o62OsC_axHU&list=PL51KTBvlQFEFv5WKx4O6Y48LndJmRpC2h] ET now interviews<br>
  [https://www.youtube.com/playlist?list=PLjq9mRS1PfGCKBgpsKfhBT9C4iyUmxwuw] cnbc-weekender <br>
  [https://www.youtube.com/playlist?list=PLjq9mRS1PfGBZaN1e38X2ZmevnU1e1NJs] young turks

@@ -1,4 +1,4 @@
-  ~~~~~~~~~~~~~~~~~~~~ Gmat ~~~~~~~~~~~~~~~~~~~~~~`
+  _____________________ Gmat ____________________
 https://www.mbacrystalball.com/gmat-syllabus <BR>
 https://www.mba.com/ <BR>
 https://www.gmac.com/gmat-other-assessments <BR>

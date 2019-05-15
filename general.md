@@ -3,6 +3,7 @@
 <h6 style="color:blue;">--------------- (generals) --------------</h6>      
  <a href="https://www.patentlyapple.com/" target="_blank">PTapple</a><br>
  <a href="https://www.cnbc.com/business/" target="_blank">CNBC-bns</a><br>
+ <a href="https://qz.com/india/" target="_blank"> QZ </a> <br>
  <a href="https://www.moneycontrol.com/markets/earnings/" target="_blank">earnings</a><br>
  <a href="https://www.moneycontrol.com/equity-research/" target="_blank">equity-research</a><br>
  <a href="https://www.moneycontrol.com/news/bfsi-tech/" target="_blank">bfsi-tech</a><br>

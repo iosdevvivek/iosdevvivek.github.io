@@ -1,3 +1,61 @@
+print("Hello, world!")
+var myVariable = 42
+myVariable = 50
+let myConstant = 42
+control flow:
+for score in individualScores {
+    if score > 50 {
+        teamScore += 3
+    } else {
+        teamScore += 1
+    }
+}
+
+handle optional values:
+let nickName: String? = nil
+let nickName: String? = nil
+let informalGreeting = "Hi \(nickName ?? fullName)"
+
+switches:
+let vegetable = "red pepper"
+switch vegetable {
+case "celery":
+    print("Add some raisins and make ants on a log.")
+case "cucumber", "watercress":
+    print("That would make a good tea sandwich.")
+case let x where x.hasSuffix("pepper"):
+    print("Is it a spicy \(x)?")
+default:
+    print("Everything tastes good in soup.")
+}
+
+
+for in:
+for (kind, numbers) in interestingNumbers {
+    for number in numbers {
+        if number > largest {
+            largest = number
+        }
+    }
+}
+
+class:
+class Shape {
+    var numberOfSides = 0
+    func simpleDescription() -> String {
+        return "A shape with \(numberOfSides) sides."
+    }
+}
+
+https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html    ///reference..
+
+functions:
+func greet(person: String, day: String) -> String {
+    return "Hello \(person), today is \(day)."
+}
+greet(person: "Bob", day: "Tuesday")
+
+
 main symbol is “?” to define variables as an Optional, It means, that can be nil
 Forcibly Unwrapping:
 You can unwrap your Optional variable with “!” operator but it’s a less safe wrapping way

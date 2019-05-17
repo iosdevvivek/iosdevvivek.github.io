@@ -1,3 +1,59 @@
+main symbol is “?” to define variables as an Optional, It means, that can be nil
+Forcibly Unwrapping:
+You can unwrap your Optional variable with “!” operator but it’s a less safe wrapping way
+var moviesCount: Int?
+
+print(moviesCount!)
+
+// Fatal error: Unexpectedly found nil while unwrapping an Optional value
+
+2 - Conditional Unwrapping
+You can unwrap your Optional variable with if let statement
+var songName: String?
+
+if let songName = songName {
+    // it means, if the unwrapped value is not nil
+    /*
+        WRITE SOMETHING HERE
+    */
+}
+else {
+    print("songName is nil")
+}
+
+3 - Unwrapping via Type Casting
+var userData: Any? = 1
+
+if userData as? String != nil {
+    print("userData is defined as a String.")
+}
+else if userData as? Int != nil {
+    print("userData is defined as an Integer.")
+}
+
+4 - Implicitly Unwrapping
+It means, when defining the variable with exclamation mark then use in somewhere, your variable will be unwrapped automatically
+
+import UIKit
+
+// Forcibly Unwrapping Begin
+var name: String? = "Batuhan"
+
+name!
+
+// Forcibly Unwrapping End
+// Implicitly Unwrapping Begin
+let age: Int! = 20
+age
+
+// Implicitly Unwrapping End
+
+https://medium.com/whoknows-swift/swift-what-is-the-optional-binding-7624c7f9098e\
+https://github.com/vsouza/awesome-ios
+https://developer.apple.com/swift/
+https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html   // swift tour...
+https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html  // language guide.....
+https://www.raywenderlich.com/2690-learn-to-code-ios-apps-1-welcome-to-programming //raywender....
 
 Mobility:
 8 years to 10 years of experience in delivering Mobility based enterprise applications.

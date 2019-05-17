@@ -1,4 +1,6 @@
 # iosdevvivek.github.io
-test edit..
-test edit..1
-test edit ...2
+[I'm an inline-style link](https://www.google.com)
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+
+

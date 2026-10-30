@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Delhi NCR Events</title>
+<style>
+:root{--ink:#172033;--muted:#667085;--line:#e7eaf0;--accent:#6d45d9;--bg:#f5f6fa}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);font-family:Inter,Arial,sans-serif;color:var(--ink)}
+header{background:linear-gradient(120deg,#21134c,#6542bd);color:#fff;padding:34px 22px}
+.wrap{max-width:1000px;margin:auto}header h1{margin:0 0 8px;font-size:30px}header p{margin:0;color:#e5ddff}
+main{max-width:1000px;margin:26px auto;padding:0 18px}.toolbar{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:18px}
+.toolbar h2{margin:0;font-size:21px}button{border:0;border-radius:10px;padding:11px 16px;background:var(--accent);color:white;font-weight:700;cursor:pointer}
+.events{display:grid;grid-template-columns:repeat(auto-fit,minmax(270px,1fr));gap:15px}
+.event{background:white;border:1px solid var(--line);border-radius:15px;padding:18px;text-align:left;cursor:pointer;transition:.18s;box-shadow:0 3px 12px #18213a08}
+.event:hover{transform:translateY(-2px);box-shadow:0 8px 22px #18213a12;border-color:#cfc2f5}
+.tag{display:inline-block;background:#f0ebff;color:#5b3db1;padding:5px 9px;border-radius:20px;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.04em}
+.event h3{font-size:18px;margin:13px 0 14px}.meta{display:flex;gap:8px;align-items:center;color:var(--muted);font-size:13px;margin:8px 0}
+.arrow{float:right;color:var(--accent);font-size:20px;margin-top:-4px}
+.overlay{display:none;position:fixed;inset:0;background:#10182888;z-index:5;align-items:center;justify-content:center;padding:18px}
+.panel{background:#fff;border-radius:18px;padding:24px;width:min(100%,560px);max-height:90vh;overflow:auto;box-shadow:0 20px 60px #0003}
+.panel h2{margin:0 0 8px}.sub{color:var(--muted);margin:0 0 20px}.detailrow{padding:12px 0;border-bottom:1px solid var(--line);font-size:14px}.detailrow strong{display:block;color:var(--muted);font-size:11px;text-transform:uppercase;margin-bottom:5px}
+.actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:20px}.close{background:#eef0f4;color:#344054}
+label{display:block;font-size:13px;font-weight:700;margin:13px 0 6px}input,textarea{width:100%;padding:11px 12px;border:1px solid #d5d9e2;border-radius:9px;font:inherit}textarea{min-height:90px;resize:vertical}.formgrid{display:grid;grid-template-columns:1fr 1fr;gap:0 12px}.hint{font-size:12px;color:var(--muted);margin-top:5px}
+@media(max-width:520px){.toolbar{align-items:flex-start;flex-direction:column}.formgrid{grid-template-columns:1fr}header h1{font-size:25px}}
+</style>
+</head>
+<body>
+<header><div class="wrap"><h1>Delhi NCR Events</h1><p>Discover performances, sports and experiences happening around the city.</p></div></header>
+<main><div class="toolbar"><h2>Upcoming events</h2><button id="addBtn">＋ Add new event</button></div><section class="events" id="events"></section></main>
+<div class="overlay" id="detailOverlay" role="dialog" aria-modal="true"><div class="panel">
+<span class="tag" id="detailCategory">EVENT</span><h2 id="detailTitle" style="margin-top:13px"></h2><p class="sub">Event details</p>
+<div class="detailrow"><strong>Date</strong><span id="detailDate"></span></div><div class="detailrow"><strong>Time</strong><span id="detailTime"></span></div><div class="detailrow"><strong>Venue / Location</strong><span id="detailLocation"></span></div><div class="detailrow"><strong>About this event</strong><span id="detailDescription"></span></div>
+<div class="actions"><a id="detailLink" href="#" target="_blank" rel="noopener" style="display:none"><button>Open event page ↗</button></a><button class="close" onclick="closeDetail()">Close</button></div>
+</div></div>
+<div class="overlay" id="addOverlay" role="dialog" aria-modal="true"><div class="panel">
+<h2>Add a new event</h2><p class="sub">Enter the event information below.</p>
+<form id="eventForm">
+<label for="name">Event name *</label><input id="name" required placeholder="e.g. Live music evening">
+<div class="formgrid"><div><label for="date">Date *</label><input id="date" required placeholder="e.g. 18 Nov"></div><div><label for="time">Time *</label><input id="time" required placeholder="e.g. 7:30 PM"></div></div>
+<label for="location">Venue / Location *</label><input id="location" required placeholder="Venue, Delhi NCR">
+<label for="description">Event details</label><textarea id="description" placeholder="Add a short description"></textarea>
+<label for="url">Detail page URL</label><input id="url" type="url" placeholder="https://example.com/event">
+<p class="hint">If you add a URL, the event detail page will include a link to open it.</p>
+<div class="actions"><button type="submit">Save event</button><button type="button" class="close" onclick="closeAdd()">Cancel</button></div>
+</form></div></div>
+<script>
+const initialEvents=[
+{id:1,name:"Marathon",category:"Sports",date:"12 Nov",time:"8:00 PM",location:"Jawaharlal Nehru Stadium",description:"Marathon event in Delhi NCR. Check the organiser's official information for participation and race details.",url:""},
+{id:2,name:"Delhi Theater",category:"Theatre",date:"12 Nov",time:"8:00 PM",location:"Laughter Club",description:"A live theatre event in Delhi. Event programme and ticket information to be confirmed by the organiser.",url:""},
+{id:3,name:"Kapil Sharma",category:"Comedy",date:"12 Nov",time:"8:00 PM",location:"Laughter Club",description:"Live comedy show featuring Kapil Sharma. Check the event organiser for show and ticket details.",url:""}];
+let events;try{events=JSON.parse(localStorage.getItem("delhiNcrEvents"))||initialEvents}catch{events=initialEvents}
+const save=()=>localStorage.setItem("delhiNcrEvents",JSON.stringify(events));
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+function render(){const root=document.getElementById("events");root.innerHTML=events.map(e=>`<button class="event" type="button" data-id="${e.id}"><span class="tag">${esc(e.category||"Event")}</span><span class="arrow">↗</span><h3>${esc(e.name)}</h3><div class="meta">◷ &nbsp;${esc(e.date)} · ${esc(e.time)}</div><div class="meta">⌖ &nbsp;${esc(e.location)}</div></button>`).join("");root.querySelectorAll(".event").forEach(card=>card.addEventListener("click",()=>showDetail(card.dataset.id)))}
+function showDetail(id){const e=events.find(x=>String(x.id)===String(id));if(!e)return;document.getElementById("detailCategory").textContent=e.category||"EVENT";document.getElementById("detailTitle").textContent=e.name;document.getElementById("detailDate").textContent=e.date;document.getElementById("detailTime").textContent=e.time;document.getElementById("detailLocation").textContent=e.location;document.getElementById("detailDescription").textContent=e.description||"No additional details provided.";const link=document.getElementById("detailLink");if(e.url){link.href=e.url;link.style.display="inline-block"}else{link.style.display="none";link.removeAttribute("href")}document.getElementById("detailOverlay").style.display="flex"}
+function closeDetail(){document.getElementById("detailOverlay").style.display="none"}function closeAdd(){document.getElementById("addOverlay").style.display="none"}
+document.getElementById("addBtn").onclick=()=>document.getElementById("addOverlay").style.display="flex";
+document.getElementById("eventForm").addEventListener("submit",ev=>{ev.preventDefault();const name=document.getElementById("name").value.trim(),date=document.getElementById("date").value.trim(),time=document.getElementById("time").value.trim(),location=document.getElementById("location").value.trim(),description=document.getElementById("description").value.trim(),url=document.getElementById("url").value.trim();let category="Event";if(/marathon|run|race/i.test(name))category="Sports";else if(/theatre|theater|play/i.test(name))category="Theatre";else if(/comedy|kapil/i.test(name))category="Comedy";events.push({id:Date.now(),name,category,date,time,location,description,url});save();render();ev.target.reset();closeAdd()});
+["detailOverlay","addOverlay"].forEach(id=>document.getElementById(id).addEventListener("click",e=>{if(e.target.id===id)e.target.style.display="none"}));document.addEventListener("keydown",e=>{if(e.key==="Escape"){closeDetail();closeAdd()}});render();
+</script></body></html>
